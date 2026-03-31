@@ -30,3 +30,7 @@ obj1.a.b.a = obj1.a
 console.log(obj1)
 
 console.log(clone(obj1))
+
+const a = 1;
+
+test();
